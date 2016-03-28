@@ -1,0 +1,1 @@
+case class Url(url: String, depth: Long)
